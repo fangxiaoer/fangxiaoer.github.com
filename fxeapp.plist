@@ -27,11 +27,11 @@
 				<key>bundle-identifier</key>
 				<string>com.fangxiaoer.fangxiaoer</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string> 房小二</string>
+				<string> 房小二网</string>
 			</dict>
 		</dict>
 	</array>
